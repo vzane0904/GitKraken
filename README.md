@@ -2,6 +2,8 @@
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
 
+GitKraken 6.5.0  Free version in Chinese (免费版 中文汉化)
+
 </div>
 
 **English** | [中文](./README.zh-CN.md)
